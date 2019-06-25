@@ -1,6 +1,5 @@
-const fs = require('fs');
-fs.readFile(path, (err, data) => {
+function copyFile(src, dest, callback) {
 
-})
+}
 
-console.log();
+module.exports = copyFile;
